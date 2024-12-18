@@ -1,7 +1,5 @@
 # CROP_YEILD_PREDICTION
 
-# Crop Yield Prediction Project
-
 ## Overview
 This project is a comprehensive crop yield prediction system that leverages machine learning to help farmers and agricultural researchers predict crop yields based on various environmental and agricultural factors.
 
