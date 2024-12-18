@@ -95,8 +95,3 @@ The Streamlit dashboard offers:
 ---
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
----
-## Contact
-Pravinkumar A- Pravinkumar22005@gmail.com
----
-Project Link: [https://github.com/pravin22kumar/CROP_YEILD_PREDICTION]
